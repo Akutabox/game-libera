@@ -1,6 +1,6 @@
 # Game Library
 
-Project CRUD sederhana menggunakan PHP Native & MySQL
+Project PHP Native & MySQL
 
 ## Fitur:
 - CRUD Game
