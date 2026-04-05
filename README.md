@@ -1,4 +1,4 @@
-# Game Library CRUD
+# Game Library
 
 Project CRUD sederhana menggunakan PHP Native & MySQL
 
